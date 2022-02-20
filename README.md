@@ -13,7 +13,7 @@ We have to analyze Medical Market in India with respect to the given problem sta
  
  <p>
  <h2>
- <u>note</u>:- We have used plotly for visulization of many types and plotly uses javascript to build interactive visuals but github does not render this kind of objects so to view notebook properly you have to download the notebook and run on your local system.
+ <u>note</u>:- We have used plotly for visulization of many types and plotly uses javascript to build interactive visuals but github does not render this kind of objects so to view notebook properly you have to download the notebook and run on your local system or just download html file and open it in your browser(ex:chrome)
 
   </h2>
 
